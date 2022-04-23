@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "865330437158",
+    "project_id": "breakzen-34355",
+    "storage_bucket": "breakzen-34355.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865330437158:android:7e5ed4548ee36f48ea9ae7",
+        "android_client_info": {
+          "package_name": "com.breakzen.breakzen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865330437158-811b2tdfesr3neqslelc41derdr1c96b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.breakzen.breakzen",
+            "certificate_hash": "8436c52a598f4afc51cdbf14351174084e22d75c"
+          }
+        },
+        {
+          "client_id": "865330437158-6pg24be2tr1f4fejfi34j0fsa70f7kei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-NI8-Uqf2k4skYjuLeiDHKvMvQgmAch8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865330437158-6pg24be2tr1f4fejfi34j0fsa70f7kei.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "865330437158-6utfjhqbc3pps1au9kahl5pgv9pntd7p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865330437158:android:aca910e4a1e4503aea9ae7",
+        "android_client_info": {
+          "package_name": "com.mobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865330437158-d6ijm84r273l7qp6nnkb14dutt7tsbb3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobileapp",
+            "certificate_hash": "8436c52a598f4afc51cdbf14351174084e22d75c"
+          }
+        },
+        {
+          "client_id": "865330437158-6pg24be2tr1f4fejfi34j0fsa70f7kei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-NI8-Uqf2k4skYjuLeiDHKvMvQgmAch8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865330437158-6pg24be2tr1f4fejfi34j0fsa70f7kei.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "865330437158-6utfjhqbc3pps1au9kahl5pgv9pntd7p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865330437158:android:e998e770f0fc6f5dea9ae7",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865330437158-tivs5ohcnpv9hmmjf8fo0hsdnj2nvvqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "host.exp.exponent",
+            "certificate_hash": "8436c52a598f4afc51cdbf14351174084e22d75c"
+          }
+        },
+        {
+          "client_id": "865330437158-6pg24be2tr1f4fejfi34j0fsa70f7kei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-NI8-Uqf2k4skYjuLeiDHKvMvQgmAch8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865330437158-6pg24be2tr1f4fejfi34j0fsa70f7kei.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "865330437158-6utfjhqbc3pps1au9kahl5pgv9pntd7p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
